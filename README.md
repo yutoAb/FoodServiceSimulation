@@ -24,5 +24,5 @@ Final Price:  $43.00
 ----------------------------------
 ```
 ### 参考にしたリポジトリ
-https://github.com/nori-ut3g/Recursion-FoodServiceSimulation
+https://github.com/nori-ut3g/Recursion-FoodServiceSimulation  
 https://github.com/Aki158/Food-Service-Simulation
