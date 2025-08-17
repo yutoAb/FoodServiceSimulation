@@ -23,3 +23,6 @@ Date: 2025年08月17日 21:22
 Final Price:  $43.00
 ----------------------------------
 ```
+### 参考にしたリポジトリ
+https://github.com/nori-ut3g/Recursion-FoodServiceSimulation
+https://github.com/Aki158/Food-Service-Simulation
